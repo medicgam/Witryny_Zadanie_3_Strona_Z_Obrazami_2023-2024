@@ -1,0 +1,116 @@
+.t1{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 1600px;
+	height: 400px;
+}
+.t2{
+	position: absolute;
+	top: 139px;
+	left: 250px;
+}
+.img1{
+	position: absolute;
+	top: 151px;
+	left: 272px;
+}
+.s1{
+	position: absolute;
+	top: 398px;
+	left: 250px;
+}
+.kontakt{
+	position: absolute;
+	top: 458px;
+	left: 1120px;
+}
+.rezerwacja{
+	position: absolute;
+	top: 620px;
+	left: 970px;
+}
+.wyslij-wiad{
+	position: absolute;
+	top: 720px;
+	left: 1070px;
+}
+.napis1{
+	position: absolute;
+	top: 520px;
+	left: 970px;
+	color: gray; 
+	font-size: 0.35cm;
+}
+.naglowek{
+	position: absolute;
+	top: 420px;
+	left: 270px;
+	color: lime; 
+	font-size: 0.75cm;
+}
+.napis2{
+	position: absolute;
+	top: 470px;
+	left: 270px;
+	color: gray; 
+	font-size: 0.40cm;
+}
+.napis3{
+	position: absolute;
+	top: 720px;
+	left: 270px;
+	color: gray; 
+	font-size: 0.40cm;
+}
+.napis4{
+	position: absolute;
+	top: 770px;
+	left: 270px;
+	color: gray; 
+	font-size: 0.40cm;
+}
+
+.naglowek1{
+	position: absolute;
+	top: 570px;
+	left: 270px;
+	color: lime; 
+	font-size: 0.55cm;
+}
+
+.zdjecie1{
+	position: absolute;
+	top: 615px;
+	left: 300px;
+}
+.zdjecie2{
+	position: absolute;
+	top: 620px;
+	left: 450px;
+}
+.zdjecie3{
+	position: absolute;
+	top: 620px;
+	left: 600px;
+}
+.zdjecie4{
+	position: absolute;
+	top: 620px;
+	left: 750px;
+}
+.stopka{
+	position: absolute;
+	top: 900px;
+	left: 250px;
+}
+.nav{
+	position: absolute;
+	top: 165px;
+	left: 1030px;
+	font-size:0.5cm;
+	color: white;
+	
+}
+
+
